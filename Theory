@@ -1,0 +1,6 @@
+– LangChain fundamentals: prompts, chains, memory
+ – Retrieval-Augmented Generation (RAG)
+ – Contextualized Q&A with document grounding
+ – Build a chatbot that answers document-based questions
+ – Connect LLMs with a vector database using RAG
+ – Add memory and refinement to improve responses
